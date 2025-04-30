@@ -1,9 +1,0 @@
-hello we are creating the ml project for jobs purposegit init
-
--- update 2
-
-machine learing , deep learing ,computer vision,deployment,streamlit
-
--- update 3 
-
-python , sql , powerBI , tensorflow ,pytorch
